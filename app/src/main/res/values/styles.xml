@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen" >
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+            <item name="android:textColor">@color/orange_text</item>
+            <item name="android:textColorPrimary">@color/orange_text</item>
+            <item name="android:background">@color/White</item>
+    </style>
+</resources>
